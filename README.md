@@ -32,6 +32,7 @@
 ## <div align="center"> 🛠️ _Technologies used:_
 
 - Python 3.9.5
+- Django 3.2.8
 
 <a name="improvement"></a>
 
