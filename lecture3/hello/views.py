@@ -5,7 +5,7 @@ from django.shortcuts import render
 
 
 def index(request):
-    return HttpResponse("Hello, world!")
+    return render(request, "hello/index.html")
 
 
 def daniel(request):
@@ -13,4 +13,4 @@ def daniel(request):
 
 
 def greet(request, name):
-    return HttpResponse(f"Hello, {name}!")
+    return HttpResponse(f"Hello, {name.capitalize()}!")
