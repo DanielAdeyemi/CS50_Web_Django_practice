@@ -22,6 +22,10 @@
 
 ## <div align="center"> 🗃️ Lecture Material:
 
+- to start new project you need to run `django-admin startproject PROJECT_NAME` command, where **PROJECT_NAME** is name of your new project
+- to run application we need to run `python3 manage.py runserver` command
+- to create an app inside the project - run following command `python3 manage.py startapp APP_NAME`, where **APP_NAME** is name of the application we want to create
+
 <!-- - **hello.py** introduce general syntax and loops/conditions in Python3
 - **functions.py** define a function and use it inside formated string
 - **classes.py** intoduce concept of OOP and how to create class and assosiated methods in Pyton.
