@@ -10,3 +10,7 @@ def index(request):
 
 def daniel(request):
     return HttpResponse("Hello, Daniel")
+
+
+def greet(request, name):
+    return HttpResponse(f"Hello, {name}!")
