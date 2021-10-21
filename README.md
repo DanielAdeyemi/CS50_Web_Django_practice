@@ -25,6 +25,7 @@
 - to start new project you need to run `django-admin startproject PROJECT_NAME` command, where **PROJECT_NAME** is name of your new project
 - to run application we need to run `python3 manage.py runserver` command
 - to create an app inside the project - run following command `python3 manage.py startapp APP_NAME`, where **APP_NAME** is name of the application we want to create
+- to connect app to the project we need to go to `settings.py` inside a project directory and add an app name into the list of installed apps
 
 <!-- - **hello.py** introduce general syntax and loops/conditions in Python3
 - **functions.py** define a function and use it inside formated string
