@@ -20,7 +20,13 @@
 
 ##### **_This is demonstration code snippets from the Harvard's lecture "Computer Science for Web Programming with Python and JavaScript" offered by [EdX](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home)_**
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
 ## <div align="center"> 🗃️ Lecture Material:
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+## <div align="center"> 🔧 Setup & Requirements:
 
 - to start new project you need to run `django-admin startproject PROJECT_NAME` command, where **PROJECT_NAME** is name of your new project
 - to run application we need to run `python3 manage.py runserver` command
@@ -33,25 +39,26 @@
 - **decorators.py** introduce an idea to take a function as an argument and modify it before output.
 - **lamda.py** shows that functions can be passed as lambda-functions if they only going to be used once.
 - **exceptions.py** demonstrates try/except block for different types of input/ math error-handling. -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## <div align="center"> 🛠️ _Technologies used:_
 
 - Python 3.9.5
 - Django 3.2.8
 
-<a name="improvement"></a>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## <div align="center"> 🌟 _Improvement opportunities:_
 
 This is only concept code and running in a console
 
-<a name="contact"></a>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## <div align="center"> 📬 Contact Information
 
 #### For any questions _[email author](mailto:adeyemidany+github@gmail.com?subject=[GitHub])_
 
-<a name="license"></a>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## <div align="center"> 📘 _License and copyright:_
 
