@@ -24,6 +24,10 @@
 
 ## <div align="center"> 🗃️ Lecture Material:
 
+- **hello** web app introduce basic syntax and logic behind django application and how to connect everything together and make routes/ requests
+
+- **newyear** app passes day/month value to the html to render for user if it's a new year day or not
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 ## <div align="center"> 🔧 Setup & Requirements:
