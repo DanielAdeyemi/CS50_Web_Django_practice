@@ -21,5 +21,5 @@ urlpatterns = [
     # include path hello and include(link) all url patterns from that app
     path('hello/', include("hello.urls")),
     path('newyear/', include("newyear.urls")),
-    path('tasks/', include("tasks.urls"))
+    path('tasks/', include("tasks.urls")),
 ]

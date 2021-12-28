@@ -9,11 +9,8 @@
 </head>
 
 <body>
-  <ul>
-    {% for task in tasks %}
-    <li>{{ task }}</li>
-    {% endfor %}
-  </ul>
+  {% block body %}
+  {% endblock %}
 </body>
 
 </html>
